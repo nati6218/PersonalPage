@@ -20,7 +20,7 @@ This project is about Natalia's profile including:
 
 * Clone this repository
 * Open a simple HTTP click the link
-* https://nati6218.github.io/EpicodusProject/
+* https://nati6218.github.io/PersonalPage/
 
 ## License
 MIT License
